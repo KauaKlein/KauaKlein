@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f40000&height=180&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f40000&height=80&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f40000&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+Name+is+Kauã+Klein;I'm+20+years+old;I+am+from+São+José,+Sc;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 <div align="center">  
@@ -17,7 +17,8 @@
 </div> 
  
 ### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
@@ -36,14 +37,14 @@
 
   
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KauaKlein}/count.svg" /></p> 
+<p align="center" color=f40000><img align="center" src="https://profile-counter.glitch.me/{KauaKlein}/count.svg" /></p> 
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f40000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f40000&height=80&section=footer"/>
