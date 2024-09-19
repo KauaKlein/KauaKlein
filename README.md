@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f40000&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+Name+is+Kauã+Klein;I'm+20+years+old;I+am+from+São+José,+Sc;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauãKlein&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaKlein&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KauãKlein&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
