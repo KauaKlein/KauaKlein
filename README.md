@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kauaklein&label=Profile%20views&color=0e75b6&style=flat" alt="kauaklein" /> </p>
 
-° 🔭 Estou trabalhando atualmente no meu projeto pessoal: [AportVest](https://github.com/KauaKlein/AportVest)
-° 👨‍💻 Todos os meus projetos estão em: https://portfolioo-nine-phi.vercel.app/
-° 📫 Como me achar **💼kaua1floripa@gmail.com **
-° ⚡ Um fato: **Sempre tento resolver bugs ouvindo música — e às vezes funciona melhor que debugar! 🎧🐞**
+- 🔭 Estou trabalhando atualmente no meu projeto pessoal: [AportVest](https://github.com/KauaKlein/AportVest)
+- 👨‍💻 Todos os meus projetos estão em: https://portfolioo-nine-phi.vercel.app/
+- 📫 Como me achar **💼kaua1floripa@gmail.com **
+- ⚡ Um fato: **Sempre tento resolver bugs ouvindo música — e às vezes funciona melhor que debugar! 🎧🐞**
 
 <h3 align="left">Conecte-se</h3>
 <p align="left">
